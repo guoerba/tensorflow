@@ -14,7 +14,8 @@ mnist = input_data.read_data_sets(MNIST_DATA,one_hot=True)
 x = tf.placeholder(tf.float32, [None, 784])
 W = tf.Variable(tf.zeros([784, 10]))
 b = tf.Variable(tf.zeros([10]))
-y = tf.matmul(x, W) + b
+#y = tf.matmul(x, W) + b#different here but more accurate
+y = tf.nn.softmax(tf.matmul(x,W) + b)
 print("x = %s" % (str(x)))
  # Define loss and optimizer
 #y_ = tf.placeholder(tf.int64, [None])#wrong here
