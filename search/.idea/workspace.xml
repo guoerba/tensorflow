@@ -3,6 +3,517 @@
   <component name="ChangeListManager">
     <list default="true" id="6e166f5f-11cb-4044-8cfb-b9ffb17b92e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../mnist/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mnist/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPEG/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/101" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/104" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/105" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/106" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/110" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/112" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/113" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/114" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/115" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/117" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/123" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/124" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/126" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/127" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/128" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/129" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/130" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/131" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/133" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/134" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/135" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/136" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/137" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/139" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/140" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/141" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/142" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/143" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/144" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/145" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/146" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/147" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/148" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/149" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/150" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/151" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/152" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/153" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/154" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/155" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/156" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/157" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/159" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/160" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/161" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/162" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/163" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/165" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/166" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/167" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/168" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/169" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/170" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/172" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/173" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/176" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/180" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/181" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/182" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/183" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/184" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/185" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/187" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/189" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/190" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/191" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/192" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/194" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/195" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/196" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/197" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/198" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/199" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/200" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/202" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/203" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/204" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/205" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/206" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/207" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/208" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/209" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/211" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/213" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/215" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/216" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/217" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/218" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/219" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/220" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/223" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/224" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/225" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/226" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/227" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/228" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/229" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/230" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/232" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/233" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/234" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/237" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/238" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/239" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/240" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/241" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/242" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/243" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/244" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/245" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/247" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/248" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/249" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/250" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/251" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/252" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/253" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/254" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/255" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/257" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/258" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/259" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/261" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/262" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/263" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/264" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/265" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/266" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/267" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/268" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/270" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/271" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/272" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/273" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/275" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/276" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/277" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/278" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/279" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/280" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/282" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/283" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/284" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/285" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/286" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/288" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/289" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/290" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/291" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/292" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/294" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/295" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/296" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/297" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/298" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/299" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/300" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/301" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/303" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/304" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/306" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/307" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/308" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/309" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/310" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/311" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/312" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/313" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/314" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/315" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/316" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/317" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/318" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/319" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/320" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/321" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/322" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/323" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/324" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/325" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/326" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/327" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/329" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/330" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/331" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/332" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/333" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/334" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/335" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/336" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/337" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/338" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/339" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/340" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/341" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/342" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/343" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/344" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/345" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/346" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/347" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/349" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/350" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/351" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/353" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/354" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/355" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/356" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/357" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/358" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/359" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/360" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/361" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/362" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/363" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/364" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/365" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/366" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/367" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/368" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/369" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/370" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/371" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/372" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/373" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/374" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/375" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/376" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/377" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/378" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/379" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/380" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/381" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/382" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/383" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/384" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/385" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/387" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/388" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/389" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/390" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/391" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/392" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/393" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/394" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/395" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/396" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/397" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/398" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/399" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/400" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/401" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/402" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/403" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/404" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/405" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/406" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/407" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/408" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/409" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/410" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/411" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/412" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JPG/99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickpic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pickpic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,52 +525,65 @@
     <session id="-1322037093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1593" />
+          <entry key="py" value="2626" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1593" />
+          <entry key="Python" value="2626" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="435">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pickpic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
-                <marker date="1539841167456" expanded="true" signature="101:1017" ph="..." />
+                <marker date="1539849119191" expanded="true" signature="101:1007" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Topng.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -79,8 +603,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/search.py" />
         <option value="$PROJECT_DIR$/pickpic.py" />
+        <option value="$PROJECT_DIR$/Topng.py" />
+        <option value="$PROJECT_DIR$/search.py" />
       </list>
     </option>
   </component>
@@ -96,6 +621,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,10 +633,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -125,7 +651,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pickpic">
+  <component name="RunManager" selected="Python.search">
+    <configuration name="Topng" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Topng.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pickpic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="search" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,9 +718,11 @@
     <list>
       <item itemvalue="Python.search" />
       <item itemvalue="Python.pickpic" />
+      <item itemvalue="Python.Topng" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Topng" />
         <item itemvalue="Python.pickpic" />
         <item itemvalue="Python.search" />
       </list>
@@ -194,21 +743,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3069719" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3069719" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -218,21 +768,40 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/search.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1247971764/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="-2655" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pickpic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
-            <marker date="1539841167456" expanded="true" signature="101:1017" ph="..." />
+            <marker date="1539849119191" expanded="true" signature="101:1007" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
         </state>
       </provider>
     </entry>

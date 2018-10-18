@@ -19,11 +19,14 @@ def downloadPic(html,keyword,pn ,savepath):
             print('【错误】当前图片无法下载')
             continue
 
+        #print("head = %s" % (str(pic.headers)))
         pic_url_list = re.split('/',each)
         pic_name_list = re.split('\.',pic_url_list[-1])
         pic_suffix = pic_name_list[-1]
 
         pic_new_name = str('%s/%s.%s' % (savepath , str('%d_%d' % (pn,i)) , pic_suffix))
+        #pic_new_name = str("%s/%s" % (savepath,))
+        
         print(pic_new_name)
         #resolve the problem of encode, make sure that chinese name could be store
         fp = open(pic_new_name,'wb')

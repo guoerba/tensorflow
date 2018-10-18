@@ -9,9 +9,9 @@ def pickuppic(directory,outdirectory,suffix):
         for file in files:
             #print("type:%s,name:%s" % (type(file),file))
             #print("find file %s" % (type(re.search(suffix,file))))
-            if len(re.findall(suffix,file)):
-                filenamelist = re.split('.',file)
-                newfilename = outdirectory + str(fcount) + filenamelist[-1]
+            #print(os.path.splitext(file))
+            if os.path.splitext(file)[1] == suffix:
+                newfilename = outdirectory + str(fcount) + suffix
                 oldfilename = directory + file
                 newfile = open(newfilename,"wb")
                 oldfile = open(oldfilename,"rb")
@@ -28,13 +28,13 @@ def pickuppic(directory,outdirectory,suffix):
 
 
 if __name__ == '__main__':
-    dir = input("要筛选的目录：")
-    print(dir)
-    outdir = input("目标目录：")
-    outdir = os.getcwd() + '/' + outdir + '/';
-    print(outdir)
-    #dir =  os.getcwd() + "/licenseplates/"
-    #outdir = os.getcwd() + '/out/'
+    #dir = input("要筛选的目录：")
+    #print(dir)
+    #outdir = input("目标目录：")
+    #outdir = os.getcwd() + '/' + outdir + '/';
+    #print(outdir)
+    dir =  os.getcwd() + "/licenseplates/"
+    outdir = os.getcwd() + '/out/'
 
     if not os.path.exists(outdir):
         os.mkdir(outdir)
